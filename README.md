@@ -14,7 +14,7 @@
 
 ## Contents
 * [Rules](rules.md)
-* [@vturrisi progress](log.md)
+* [@joaovkn progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
