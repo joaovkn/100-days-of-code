@@ -6,7 +6,7 @@
 ### Day 1: Jan 22, 2018
 
 **Today's Progress**:
-- Estudei Strings e operações matemáticas básicas em Python 3.
+- Estudei variáveis, Strings e operações matemáticas básicas em Python 3.
 - As soluções para as questões estão no arquivo "aprendizado1.py"
 
 **Info**:
