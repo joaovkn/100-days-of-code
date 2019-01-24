@@ -21,4 +21,14 @@
 - As soluções para as questões estão no arquivo "aprendizado2.py"
 
 **Info**:
-https://www.codecademy.com/courses/learn-python-3/lessons/intro-to-functions/exercises/introduction?action=resume_content_item
+- Completo:https://www.codecademy.com/courses/learn-python-3/lessons/intro-to-functions/exercises/introduction?action=resume_content_item
+
+### Day 3: Jan 23, 2018
+
+**Today's Progress**:
+- Estudei controle de fluxo em Python 3.
+- As soluções para as questões estão no arquivo "aprendizado3.py"
+
+**Info**:
+- Completo:https://www.codecademy.com/courses/learn-python-3/lessons/control-flow/exercises/introduction?action=resume_content_item
+
