@@ -15,3 +15,10 @@
 - https://www.codecademy.com/courses/learn-python-3/quizzes/learn-python-syntax-quiz
 
 ### Day 2: Jan 23, 2018
+
+**Today's Progress**:
+- Estudei funções em Python 3.
+- As soluções para as questões estão no arquivo "aprendizado2.py"
+
+**Info**:
+https://www.codecademy.com/courses/learn-python-3/lessons/intro-to-functions/exercises/introduction?action=resume_content_item
