@@ -23,7 +23,7 @@
 **Info**:
 - Completo:https://www.codecademy.com/courses/learn-python-3/lessons/intro-to-functions/exercises/introduction?action=resume_content_item
 
-### Day 3: Jan 23, 2018
+### Day 3: Jan 24, 2018
 
 **Today's Progress**:
 - Estudei controle de fluxo em Python 3.
@@ -31,4 +31,21 @@
 
 **Info**:
 - Completo:https://www.codecademy.com/courses/learn-python-3/lessons/control-flow/exercises/introduction?action=resume_content_item
+
+### Day 4: Jan 25, 2018
+
+**Today's Progress**:
+- Estudei listas em Python 3.
+- As soluções para as questões estão no arquivo "aprendizado4.py"
+
+**Info**:
+- Completo:https://www.codecademy.com/courses/learn-python-3/lessons/create-python-list/exercises/intro-list?action=resume_content_item
+
+### Day : Jan , 2018
+X
+X
+X
+
+**Info**:
+- Farei:https://www.codecademy.com/courses/learn-python-3/lessons/learn-python-loops/exercises/introduction?action=resume_content_item
 
