@@ -41,11 +41,11 @@
 **Info**:
 - Completo:https://www.codecademy.com/courses/learn-python-3/lessons/create-python-list/exercises/intro-list?action=resume_content_item
 
-### Day : Jan , 2018
-X
-X
-X
+### Day 5: Jan 29, 2018
+**Today's Progress**:
+- Estudei funções em Python 3.
+- As soluções para as questões estão no arquivo "aprendizado5.py"
 
 **Info**:
-- Farei:https://www.codecademy.com/courses/learn-python-3/lessons/learn-python-loops/exercises/introduction?action=resume_content_item
+- Concluido até o 7º exercício:https://www.codecademy.com/courses/learn-python-3/lessons/python-functions-syntax-cc/exercises/win-percentage?action=resume_content_item
 
