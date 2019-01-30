@@ -49,3 +49,12 @@
 **Info**:
 - Concluido até o 7º exercício:https://www.codecademy.com/courses/learn-python-3/lessons/python-functions-syntax-cc/exercises/win-percentage?action=resume_content_item
 
+### Day 6: Jan 30, 2018
+**Today's Progress**:
+- Estudei funções em Python 3, pra continuar no codeacademy é preciso ser premium, logo continuo o aprendizado por vídeos.
+- As soluções para as questões estão no arquivo "aprendizado6.py"
+
+
+**Info**:
+  Criei uma função simples que define o IMC de uma pessoa.
+
