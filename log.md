@@ -56,5 +56,14 @@
 
 
 **Info**:
-  Criei uma função simples que define o IMC de uma pessoa.
+- Criei uma função simples que define o IMC de uma pessoa.
+
+### Day 7: Jan 31, 2018
+**Today's Progress**:
+- Comecei o estudo de PHP, achei interessante aprender já que irei usar no meu estágio.
+- Ainda não houve desenvolvimento e trechos interessantes de código.
+
+
+**Info**:
+- Segundo o tutorial: "PHP Programming Language - Full Course" em https://www.youtube.com/watch?v=OK_JCtrrv-c.
 
