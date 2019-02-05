@@ -77,4 +77,13 @@
 - Segui o tutorial em https://www.youtube.com/watch?v=z1xtFbO9jgQ
 
 
+### Day 9: Feb 5, 2018
+**Today's Progress**:
+- Desenvolvi trechos de umaa aplicaçã em framework Yii,para o serviço de Routing em web.
+- O código reference está no arquivo "SiteController.php".
+
+
+**Info**:
+- Segui o tutorial em https://www.youtube.com/watch?v=jkIVxN5_WFc
+
 
