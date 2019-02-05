@@ -67,3 +67,14 @@
 **Info**:
 - Segundo o tutorial: "PHP Programming Language - Full Course" em https://www.youtube.com/watch?v=OK_JCtrrv-c.
 
+### Day 8: Feb 4, 2018
+**Today's Progress**:
+- Criei minha primeira aplicação com o framework Yii.
+- O código reference está no arquivo "criacao.php".
+
+
+**Info**:
+- Segui o tutorial em https://www.youtube.com/watch?v=z1xtFbO9jgQ
+
+
+
