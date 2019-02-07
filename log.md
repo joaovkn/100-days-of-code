@@ -86,4 +86,12 @@
 **Info**:
 - Segui o tutorial em https://www.youtube.com/watch?v=jkIVxN5_WFc
 
+### Day 10: Feb 6, 2018
+**Today's Progress**:
+- Estudei como fazer a conexão da aplicação em php com um banco de dados.
+
+
+**Info**:
+- Segui o tutorial em https://www.youtube.com/watch?v=KjuNitefLRU
+
 
