@@ -94,4 +94,12 @@
 **Info**:
 - Segui o tutorial em https://www.youtube.com/watch?v=KjuNitefLRU
 
+### Day 11: Feb 7, 2018
+**Today's Progress**:
+- Criei o campo de usuario para sua inserção junto a senha ao banco de dados.
+
+**Info**:
+- Estudei a parte de controller e model em Php.
+
+
 
